@@ -1,9 +1,3 @@
-✨ Autor
-
-Desarrollado por [Tu nombre / equipo]
-📧 Contacto: [correo@empresa.com
-]
-
 
 ---
 
